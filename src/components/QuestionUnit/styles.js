@@ -12,10 +12,11 @@ const styles = StyleSheet.create({
         backgroundColor: 'white',
 
         borderLeftWidth: 10,
-        borderLeftColor: '#E91E63',
+        borderLeftColor: 'white',
         fontWeight: 'bold',
-        paddingTop: 10,
-        paddingBottom: 10,
+        //paddingTop: 10,
+        padding: 10,
+        //paddingBottom: 10,
 
     },
     imageView: {
