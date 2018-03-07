@@ -1,5 +1,5 @@
- extern const unsigned char autosimVersionString[];
- extern const double autosimVersionNumber;
+ extern const unsigned char AutoSimVersionString[];
+ extern const double AutoSimVersionNumber;
 
- const unsigned char autosimVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:autosim  PROJECT:autosim-1" "\n";
- const double autosimVersionNumber __attribute__ ((used)) = (double)1.;
+ const unsigned char AutoSimVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:AutoSim  PROJECT:AutoSim-1" "\n";
+ const double AutoSimVersionNumber __attribute__ ((used)) = (double)1.;

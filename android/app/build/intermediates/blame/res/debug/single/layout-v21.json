@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_action.xml"
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_action.xml"
     }
 ]

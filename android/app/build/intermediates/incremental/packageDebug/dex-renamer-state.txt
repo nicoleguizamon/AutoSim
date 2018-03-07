@@ -1,4 +1,4 @@
-#Tue Mar 06 20:59:47 ART 2018
-base.0=/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Wed Mar 07 12:18:53 ART 2018
+base.0=/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

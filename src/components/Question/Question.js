@@ -98,9 +98,22 @@ export default class Question extends Component<Props> {
     isContentVisible() {
         return (this.state.displayAnim) ? { display: 'none' } : { display: 'flex' };
     }
-
+    renderButton(){
+        if(this.state.data.length > 0){
+            return (
+                <TouchableOpacity
+                    style={styles.button}
+                    onPress={this.handleFinishPress} >
+                    <Text> Terminar </Text>
+                </TouchableOpacity>
+            );
+        }
+        else{
+            return (<Text style={styles.notAvailable}> Este examen aún no esta disponible. </Text>);
+        }
+    }
     render() {
-        const buttonLabel = 'Terminar';
+        
         let questions = this.state.data.map((val, key) => {
             return <QuestionUnit key={key} keyval={key} val={val}
                 onUpdate={this.onUpdate} />
@@ -124,11 +137,8 @@ export default class Question extends Component<Props> {
                     <ScrollView style={styles.scrollContainer}>
                         {questions}
                         <View style={styles.questions}>
-                            <TouchableOpacity
-                                style={styles.button}
-                                onPress={this.handleFinishPress} >
-                                <Text> {buttonLabel} </Text>
-                            </TouchableOpacity>
+                        {this.renderButton()}  
+                            
                         </View>
                     </ScrollView>
                 </View>

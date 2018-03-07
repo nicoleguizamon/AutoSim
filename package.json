@@ -1,5 +1,5 @@
 {
-  "name": "autosim",
+  "name": "AutoSim",
   "version": "0.0.1",
   "private": true,
   "author": "Nicolas Leguizamon",
@@ -30,6 +30,6 @@
   "rnpm": {
     "assets": [
       "./assets/fonts/"
-      ]
+    ]
   }
 }

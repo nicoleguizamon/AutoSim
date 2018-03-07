@@ -3,39 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_d5696de8f4bac24c21a3e47f6044efa9f700dc9f.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/nicoleguizamon/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_05f1afb219046aad619623f203168e1d78902a72.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_656b31fd070420065404c8152e300f3f61aaf4f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_02467da9be917c447b241498d747df284a29b3a8.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_05f1afb219046aad619623f203168e1d78902a72.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +17,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a296f42645e1e414a4a9ccff6aa0b550c7e5927b.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a296f42645e1e414a4a9ccff6aa0b550c7e5927b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,16 +26,16 @@
         optimize="true"
         revision="26.0.2"
         sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_3fa9be309670be7a890aefae4e3befded1536c24.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_3fa9be309670be7a890aefae4e3befded1536c24.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_5ee370bbce42d08b430eb517ee526d49c4a27c5e.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_930ea6e3994689c937ff1d84ee5bb61708913f21.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,7 +44,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4dcbc9fc6ecf5b1bdb9b56d6a6d656b998f0d0f1.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_4dcbc9fc6ecf5b1bdb9b56d6a6d656b998f0d0f1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,7 +53,16 @@
         optimize="true"
         revision="26.0.2"
         sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_15a13dcf6ab4ae7434c6a607b1ab9f80a446c685.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_15a13dcf6ab4ae7434c6a607b1ab9f80a446c685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_415117538f4103e731471baf37b15ee4a90495ca.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,25 +71,34 @@
         optimize="true"
         revision="26.0.2"
         sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_dd8b2b1eca6cd0bbd3d2daa0b8495fcdd4a7762d.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_dd8b2b1eca6cd0bbd3d2daa0b8495fcdd4a7762d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_22fca10bfb49bfa503ddfa02b2ac6ed69dc2ae9e.jar" />
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6216502fbf14aee7081b656043e021d863468f6b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/AutoSim/lottie-react-native/unspecified/release/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_4a32bdb3eba6f9dba68471aa5afc3369e3c900fb.jar" />
+        sha1="a04cae6e52ecba60b8f29b882ca63c50772515f7">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/lottie-react-native-unspecified-release_8cfe003ff1242aed24f6d292c22744e787ed3a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_12c5dcbb0f8841d10878726e13a9151f5683da80.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,34 +107,52 @@
         optimize="true"
         revision="26.0.2"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_da711b147bf06874a9341be2db69f00aa47a6b40.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_da711b147bf06874a9341be2db69f00aa47a6b40.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_690762f5564d03437e472ffbb3f6aab468424691.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_7d8e70aaa0d90926826e763a69ac597117527ff6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_10a2273ba359835e7142427478ef1a75466a8782.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_8797ed8c3e19d03537d235be9ebee46b24ee9407.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.airbnb.android/lottie/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23101721d7424c7748ca7e16ef5896e95d8c4694">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.airbnb.android-lottie-2.3.1_0dd92106c72307d5b207f1d191802225ac6f2874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_cbdfac36ad9b0b73e3a32b92609697829149519d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e0febf22a40029df220cbdceaf963e69aa6b48d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_4da0154c2dc9d32768ecf4a808d48b473ba212d4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +161,7 @@
         optimize="true"
         revision="26.0.2"
         sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_7b23b30211dbe68eb3c433b16b60d84d73f53773.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_7b23b30211dbe68eb3c433b16b60d84d73f53773.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,61 +170,16 @@
         optimize="true"
         revision="26.0.2"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0a6070d547205036b91a6ff56556b0a0b2178680.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_0a6070d547205036b91a6ff56556b0a0b2178680.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_9ce010d8201e156f9dd39461c3c4480bc2a1f562.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f6713a1d67bf692807cfb11990c29ba8c0e2feb1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_3fdded8b3033cfc24d96359bf5da601f82da4f3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_8a2ddf3db0186a6809f30e6e35e92c9a93efdb49.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_043f5e217fdcb1f841e35273dab8cd5ca529afbc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_dfb429f78cd2676276518b0253611e3c2d10d8a6.jar" />
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_bb9ce47e92b4c168037721f1b5c5be93fd42ceea.jar" />
     </item>
     <item
         is-multidex="false"
@@ -224,124 +188,115 @@
         optimize="true"
         revision="26.0.2"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3cfb19a4ac2248629345fe73560ea9d61b6d1d98.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3cfb19a4ac2248629345fe73560ea9d61b6d1d98.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="71e22619df25643022a7f7281461ef5e926141be">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_65869fdfb3ef6a7cc9f51aec67513d5ff6e2ee6d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/react-native-maps/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8b6f8eaafcb2a1b22d796bf21adc28565e7417d0">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/autosim-react-native-maps-unspecified_60f89e7ac8215bbb1d1f304526e63ad964cf8b8c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_d7a459de48ed631bad233dd7e6870f9b3d81769c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/autosim-react-native-vector-icons-unspecified_d01128c1f25b8d9f4676973d1cdd19dbf576022a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_37b2ae73f5240e512619e2612f8f941c4c0727bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_732f840381dc182828a4e81ef7ac72396a19f8e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_91c7db9159982dde1a8a62ad6f2f847c26be40b0.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_d6ede24a03d22b0b278161b32a24ae576d758482.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_08a9b9361668ac7dd0a9ace0b545fbb5e5b42dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/AutoSim/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/AutoSim-react-native-vector-icons-unspecified_a9de3620336f9d65f4a2fa4c02228729b6f10434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71e22619df25643022a7f7281461ef5e926141be">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.3_731ed2687d5db6268398cc56a1d1cfa7e01c7086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_cef2186ca9b4501edf6a59637e37e13eb1d6778c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_714d165b1bd9e0a3af2951c8d06b881a0e42eec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_5477674fe5f02fb4ff41449170094cf07df2a2b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_1dcc539980cfbb2c16af77e1107133197af4448e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b6ddba1a035f26c4e804813e8e3838a6369a46fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_aa130e35ec7ad4812e8e45d3afd233e575ca232b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_fdbd174f215ab9f6ef25b5ac3f86924ea9076ff8.jar" />
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_fb66cf6ad3cd7d180d71d40f3d42412d044fe78c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_7e5ed631980c5d24bd128eea2f9a68c9b93ea04c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/lottie-react-native/unspecified/release/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="a04cae6e52ecba60b8f29b882ca63c50772515f7">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/lottie-react-native-unspecified-release_68efda4939dd7c76b2a7d43f98071b3b9db8d2ce.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_ea37162216c2c6e19b00486d55a9e01bc4e2bd1c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_f0596a2e923e67b792f04f59dc9224be9393641e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.airbnb.android/lottie/2.3.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="23101721d7424c7748ca7e16ef5896e95d8c4694">
-        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.airbnb.android-lottie-2.3.1_f582be5a14f7f1d9612c188f18247cafbd1590ef.jar" />
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim2/AutoSim/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_1994942dbebe8c19abb66baeec0b9e2e711821c1.jar" />
     </item>
 
 </items>

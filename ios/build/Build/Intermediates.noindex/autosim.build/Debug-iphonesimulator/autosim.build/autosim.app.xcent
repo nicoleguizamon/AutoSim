@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>NU5SHV97CA.org.reactjs.native.example.autosim</string>
+	<string>NU5SHV97CA.org.reactjs.native.example.AutoSim</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>NU5SHV97CA.org.reactjs.native.example.autosim</string>
+		<string>NU5SHV97CA.org.reactjs.native.example.AutoSim</string>
 	</array>
 </dict>
 </plist>
