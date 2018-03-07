@@ -12,12 +12,12 @@ const styles = StyleSheet.create({
       justifyContent: 'center',
     },
     title: {
+      fontFamily: 'simple joys',
       backgroundColor: 'transparent',
       textAlign: 'center',
-      fontSize: 30,
+      fontSize: 80,
       paddingBottom: 10,
-      color: 'white',
-      fontWeight: 'bold',
+      color: 'white'
     },
     subTitle:{
       backgroundColor: 'transparent',

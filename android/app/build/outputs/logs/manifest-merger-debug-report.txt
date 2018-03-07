@@ -15,6 +15,8 @@ ADDED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/s
 		INJECTED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [autosim:react-native-maps:unspecified] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/react-native-maps/unspecified/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:20:5-66
 MERGED from [autosim:lottie-react-native:unspecified:release] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/lottie-react-native/unspecified/release/AndroidManifest.xml:9:5-67
 	android:name
 		ADDED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml:4:22-64
@@ -25,6 +27,10 @@ MERGED from [com.facebook.react:react-native:0.53.3] /Users/nicoleguizamon/Docum
 		ADDED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:19:5-21:19
 MERGED from [com.airbnb.android:lottie:2.3.1] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.airbnb.android/lottie/2.3.1/AndroidManifest.xml:12:5-20
 MERGED from [com.facebook.react:react-native:0.53.3] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:25:5-29:19
@@ -75,6 +81,11 @@ ADDED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/s
 		ADDED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [autosim:react-native-maps:unspecified] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/react-native-maps/unspecified/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:17:5-43
 MERGED from [autosim:react-native-vector-icons:unspecified] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [autosim:lottie-react-native:unspecified:release] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/lottie-react-native/unspecified/release/AndroidManifest.xml:5:5-7:41
 MERGED from [com.airbnb.android:lottie:2.3.1] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.airbnb.android/lottie/2.3.1/AndroidManifest.xml:8:5-10:41
@@ -105,6 +116,34 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/nicoleguizamon/Documen
 	android:minSdkVersion
 		INJECTED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [autosim:react-native-maps:unspecified] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/react-native-maps/unspecified/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [autosim:react-native-maps:unspecified] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/autosim/react-native-maps/unspecified/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/AndroidManifest.xml:20:20-65
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] /Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/AndroidManifest.xml:26:9-28:38

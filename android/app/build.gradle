@@ -137,6 +137,9 @@ android {
 }
 
 dependencies {
+    compile project(':react-native-maps')
+    compile project(':react-native-vector-icons')
+    compile project(':lottie-react-native')
     compile project(':react-native-vector-icons')
     compile project(':lottie-react-native')
     compile fileTree(dir: "libs", include: ["*.jar"])

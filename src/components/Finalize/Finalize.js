@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { AppRegistry, StyleSheet, Text, View } from 'react-native';
+import { AppRegistry, StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import Animation from 'lottie-react-native';
 
 import animSuccess from '../../../assets/confetti.json';
@@ -11,7 +11,7 @@ export default class lottieloader extends Component {
     this.animation.play();
   }
   onStartExam = (user) => {
-    this.props.navigation.navigate('Home', {});
+    this.props.navigation.navigate('Location', {});
   };
 
   render() {
@@ -21,7 +21,7 @@ export default class lottieloader extends Component {
     const subTitleFail = 'Por el momento solo podrás andar en bicicleta. No te desanimes, solo estudia un poco más.';
     const titleSuccess = 'Felicitaciones! Tu resultado fue ' + this.props.navigation.state.params.result + '%. ';
     const subTitleSuccess = 'Estas en condiciones de rendir tu examen.';
-    
+    const buttonLabel = 'Volver a Empezar';
     return (
 
       <View style={styles.container}>
@@ -39,6 +39,13 @@ export default class lottieloader extends Component {
             loop={true}
             source={isApproved ? animSuccess : animFail}
           />
+        </View>
+        <View style={styles.buttonView}>
+          <TouchableOpacity
+              style={styles.button}
+              onPress={this.onStartExam} >
+              <Text> {buttonLabel} </Text>
+          </TouchableOpacity>
         </View>
       </View>
     );

@@ -22,6 +22,19 @@ const styles = StyleSheet.create({
   animation: {
     width: 250,
     height: 250
+  },
+  button: {
+    alignItems: 'center',
+    backgroundColor: '#DDDDDD',
+    padding: 12,
+    marginTop: 20,
+    borderRadius: 20,
+    width: 250,
+  },
+  buttonView:{
+    bottom: 30,
+    position: 'absolute',
+
   }
 });
 

@@ -92,8 +92,16 @@
         "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
         "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -112,6 +120,10 @@
         "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
         "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
         "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
@@ -120,8 +132,16 @@
         "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
@@ -162,6 +182,10 @@
     {
         "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
         "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/nicoleguizamon/Documents/Projects/GitHub/AutoSim/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
