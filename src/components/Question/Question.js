@@ -28,7 +28,8 @@ export default class Question extends Component<Props> {
 
     componentDidMount() {
         this.animation.play();
-        fetch(settings.BASE_URL + '/api/questions/locations/1')
+        let id = this.props.navigation.state.params.locationId;
+        fetch(settings.BASE_URL + '/api/questions/locations/' + id)
             .then((response) => response.json())
             .then((responseJson) => {
 
