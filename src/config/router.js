@@ -2,11 +2,11 @@ import React from 'react';
 import { TabNavigator, StackNavigator } from 'react-navigation';
 import { Icon } from 'react-native-elements';
 
-import Question from '../components/Question/Question';
-import QuestionUnit from '../components/QuestionUnit/QuestionUnit';
-import Location from '../components/Location/Location';
-import Home from '../components/Home/Home';
-import Finalize from '../components/Finalize/Finalize';
+import Question from '../screens/Question/Question';
+import QuestionUnit from '../screens/QuestionUnit/QuestionUnit';
+import Location from '../screens/Location/Location';
+import Home from '../screens/Home/Home';
+import Finalize from '../screens/Finalize/Finalize';
 
 
 export const Root = StackNavigator({

@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { StyleSheet, Text, View, ScrollView, ImageBackground } from "react-native";
 import { List, ListItem } from 'react-native-elements';
-import { datalocations } from '../../config/datalocations';
 import { settings } from '../../config/settings';
 import styles from './styles';
 import animLoader from '../../../assets/simple_loader.json';
