@@ -94,9 +94,9 @@ export default class QuestionUnit extends Component {
                 renderContainer={renderContainer}
               />
             </View>
-            <Text style={{
+            {/* <Text style={{
               margin: 20,
-            }}>Opción seleccionada: {this.state.checkListOption.answerId || ''}</Text>
+            }}>Opción seleccionada: {this.state.checkListOption.answerId || ''}</Text> */}
           </View>
         </View>
       </View>
